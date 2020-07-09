@@ -1,0 +1,14 @@
+{
+  "name": "pagescrolling",
+  "version": "1.0.0",
+  "description": "A webpage to try out pageScrolling ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GreatGreven",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
